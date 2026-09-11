@@ -1,85 +1,116 @@
-Projeto Escolar — Etec Maria Cristina Medeiros
+📚 Projeto Escolar — Etec Maria Cristina Medeiros
 
-Projeto desenvolvido como atividade avaliativa sob orientação do professor Anderson Vanin.
+🎓 Atividade avaliativa desenvolvida para a Etec Maria Cristina Medeiros
+👨‍🏫 Professor: Anderson Vanin
+📍 Ribeirão Pires — São Paulo
+📅 Início: 02/09/2026
 
-Sobre o projeto
+📖 Sobre o projeto
 
-Este projeto está sendo desenvolvido como parte de uma atividade escolar da Etec Maria Cristina Medeiros, localizada em Ribeirão Pires, São Paulo.
+Este projeto está sendo desenvolvido como parte de uma atividade escolar avaliativa da Etec Maria Cristina Medeiros, localizada em Ribeirão Pires — SP.
 
-A atividade teve início no dia 02/09/2026 e está sendo realizada sob orientação do professor Anderson Vanin.
+A atividade é realizada sob orientação do professor Anderson Vanin e tem como objetivo proporcionar aos alunos uma experiência prática de desenvolvimento, organização, documentação e entrega de um projeto acadêmico.
 
-O projeto foi dividido em 4 etapas, que serão desenvolvidas e entregues separadamente em dias diferentes. Cada etapa faz parte do processo de avaliação da atividade.
+O projeto foi dividido em 4 etapas, que serão desenvolvidas e entregues separadamente, conforme o cronograma estabelecido pelo professor.
 
-As entregas serão realizadas por meio do Microsoft Teams, plataforma utilizada para o envio das atividades e acompanhamento das entregas.
+As atividades serão entregues por meio do Microsoft Teams, plataforma utilizada para o envio, acompanhamento e avaliação dos trabalhos.
 
-Objetivo
+🎯 Objetivo
 
-O objetivo deste projeto é desenvolver as atividades propostas pelo professor, seguindo as orientações e os prazos estabelecidos para cada uma das quatro etapas.
+O principal objetivo deste projeto é desenvolver as atividades propostas durante as quatro etapas da avaliação, seguindo as orientações, requisitos e prazos definidos pelo professor.
 
-O projeto também busca proporcionar aos alunos uma experiência prática de desenvolvimento, organização e entrega de uma atividade acadêmica.
+Além disso, o projeto busca desenvolver habilidades relacionadas a:
 
-Etapas do projeto
+💻 Desenvolvimento de software
+🗂️ Organização de projetos
+📝 Documentação
+🤝 Trabalho acadêmico
+📦 Entrega de atividades
+⏱️ Cumprimento de prazos
+🗓️ Etapas do projeto
 
 O projeto está dividido em quatro etapas:
 
-Etapa	Descrição	Data de entrega	Status
-01	Primeira etapa do projeto	
-02	Segunda etapa do projeto	
-03	Terceira etapa do projeto	
-04	Quarta etapa do projeto	
+Etapa	Descrição	Entrega	Status
+01	Primeira etapa do projeto	—	⬜ Pendente
+02	Segunda etapa do projeto	—	⬜ Pendente
+03	Terceira etapa do projeto	—	⬜ Pendente
+04	Quarta etapa do projeto	—	⬜ Pendente
 
-Cada etapa será realizada e enviada individualmente, respeitando o cronograma definido para a atividade.
+📌 As datas de entrega serão atualizadas conforme forem definidas ou divulgadas pelo professor.
 
-
-
-Entrega e avaliação
-
-A atividade será utilizada como forma de avaliação escolar.
-
-Cada uma das quatro etapas deverá ser enviada separadamente pelo Microsoft Teams, em dias diferentes, conforme os prazos estabelecidos pelo professor.
-
-Plataforma de entrega
-
-Microsoft Teams
-
-O Teams será utilizado para:
-
-Envio das atividades;
-Entrega das quatro etapas;
-Acompanhamento dos trabalhos;
-Avaliação das atividades pelo professor.
-Progresso do projeto
+📊 Progresso do projeto
 Progresso geral
+░░░░░░░░░░░░░░░░░░░░ 0%
 
-[░░░░░░░░░░░░░░░░░░░░] 0%
+Checklist
+ 📌 Etapa 01
+ 📌 Etapa 02
+ 📌 Etapa 03
+ 📌 Etapa 04
 
-[ ] Etapa 01
-[ ] Etapa 02
-[ ] Etapa 03
-[ ] Etapa 04
+O progresso será atualizado conforme cada etapa for concluída e entregue.
 
+📤 Entrega e avaliação
 
-O progresso poderá ser atualizado conforme cada etapa for concluída e entregue.
+A atividade será utilizada como parte da avaliação escolar.
 
-Informações acadêmicas
+Cada etapa deverá ser desenvolvida e enviada individualmente pelo Microsoft Teams, respeitando os prazos estabelecidos pelo professor.
+
+O Microsoft Teams será utilizado para:
+📤 Envio das atividades
+📋 Entrega das quatro etapas
+👀 Acompanhamento dos trabalhos
+📝 Avaliação das atividades
+📅 Controle dos prazos de entrega
+🏫 Informações acadêmicas
 Informação	Detalhes
-Instituição	Etec Maria Cristina Medeiros
-Localização	Ribeirão Pires — SP
-Professor	Anderson Vanin
-Data de início	02/09/2026
-Tipo	Projeto escolar / Atividade avaliativa
-Etapas	4
-Plataforma de entrega	Microsoft Teams
-Integrantes
+🏫 Instituição	Etec Maria Cristina Medeiros
+📍 Localização	Ribeirão Pires — SP
+👨‍🏫 Professor	Anderson Vanin
+📅 Data de início	02/09/2026
+📚 Tipo	Projeto escolar / Atividade avaliativa
+🔢 Quantidade de etapas	4
+📤 Plataforma de entrega	Microsoft Teams
+👥 Integrantes
 
+✏️ Os integrantes do projeto poderão ser adicionados nesta seção.
 
-Observações
+Nome	Função
+—	—
+—	—
+—	—
+📝 Observações
 
-Este README poderá ser atualizado durante o desenvolvimento do projeto para registrar novas informações, alterações nas etapas, datas de entrega e o progresso das atividades.
+Este README poderá ser atualizado durante o desenvolvimento do projeto para registrar:
 
-Licença
+Novas informações;
+Alterações nas etapas;
+Datas de entrega;
+Progresso das atividades;
+Informações sobre o desenvolvimento;
+Integrantes do projeto;
+Outras informações relevantes.
+📌 Status atual
 
-Este projeto possui finalidade acadêmica e escolar, não sendo destinado à distribuição comercial.
+🟡 Projeto em desenvolvimento
 
+Etapas concluídas: 0/4
+Progresso:          0%
+Status:             Em andamento
 
-<p align="center"> Projeto desenvolvido para fins educacionais na Etec Maria Cristina Medeiros. </p>
+📄 Licença
+
+Este projeto possui finalidade exclusivamente acadêmica e escolar, sendo desenvolvido para fins educacionais na Etec Maria Cristina Medeiros.
+
+Não é destinado à distribuição ou exploração comercial.
+
+<div align="center">
+🎓 Etec Maria Cristina Medeiros
+
+Projeto desenvolvido para fins educacionais.
+
+📍 Ribeirão Pires — SP
+📅 2026
+
+</div>
